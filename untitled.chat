@@ -1,0 +1,18 @@
+{
+  "messages": [],
+  "users": {
+    "hidden::jupyter_ai_system": {
+      "initials": null,
+      "display_name": "System",
+      "name": "System",
+      "avatar_url": null,
+      "color": null,
+      "username": "hidden::jupyter_ai_system",
+      "bot": true
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "0b8229e7-6f60-4f0d-8867-c74ab64a9a28"
+  }
+}
